@@ -49,6 +49,6 @@ Public API: https://gist.githubusercontent.com/anonymous/290132e587b77155eebe446
 Proprietary License:
 This project is copyrighted and all rights are reserved. No use, redistribution, or modification is permitted without explicit permission.
 
-Copyright (c) [YEAR] [@GaffyCool]. All rights reserved.
+Copyright (c) 2024-2025 [@GaffyCool]. All rights reserved.
 This software is proprietary and cannot be used, modified, or redistributed without explicit permission from the author.
 No warranties are provided, and use of this software is entirely at your own risk.
