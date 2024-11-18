@@ -7,14 +7,17 @@
 - As per the requirement, I have added comments where necessary to provide a better understanding on the specific highlighted line of code
 - Total development time around 3.5 hours
 
+
+**App Video:**
+https://github.com/user-attachments/assets/0d021bec-33b3-41bb-8e32-9985f828e047
+
+
 Things I am proud of:
 - Followed the best architecture MVVM and using Jetpack compose and Jetpack navigation so this will reduce refactoring in the future.
 
 If more time:
 - If there was more time allowed, I would add a secondary tab to show recently pinged list
 - Adding a user search option so the user can specify the URl to ping instead of using the hard codded URL list
-
-https://github.com/user-attachments/assets/2fafb303-1398-43e5-9ac2-8b7413a474d5
 
 **App Architecture:**
 This repository contains an implementation of a clean architecture for Android applications using Compose, MVVM, Hilt, Coroutines, Kotlin Flow, Repository, Retrofit, Mockk and JUnit.
