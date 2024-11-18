@@ -9,7 +9,11 @@
 
 
 **App Video:**
-https://github.com/user-attachments/assets/0d021bec-33b3-41bb-8e32-9985f828e047
+
+
+https://github.com/user-attachments/assets/2d67b23d-3d34-4fac-bc15-c65bf934cba2
+
+
 
 
 Things I am proud of:
