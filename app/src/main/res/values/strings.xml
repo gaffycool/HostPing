@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HostPing</string>
+
+    <string name="latency_millis">Latency\n%1$s millis</string>
+    <string name="failed">Failed</string>
+    <string name="click_to_recheck_latency">Click to recheck latency</string>
+    <string name="sorted_by_lowest_latency">Sorted by lowest latency</string>
+    <string name="sorted_by_highest_latency">Sorted by highest latency</string>
+</resources>
